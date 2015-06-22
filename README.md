@@ -18,7 +18,7 @@ There must be a `README.md` file that contains models as headings with their pro
 The following data model should provide the basic functionality requested in the requirements above. Additionally, I have laid out some of the methods that each of these classes should have as well. Additional (or refined) features could certainly be added.
 
 ###App
-.login		Provides login functionality for user to be verified and enter app
+* .login		Provides login functionality for user to be verified and enter app
 
 ###User
 * @username		User's login/ screen name
